@@ -1,8 +1,14 @@
 # Team Mystic
 
+* d1e9d9a1
+* potatokaibuzz
+* Kaopipi6688
+
 # Team Valor
 
 * s135246
+* 70296
+
 
 # Team Instinct
 
@@ -10,3 +16,5 @@
 * mm0m830
 * vvv88
 * KKNG1997
+* Felix630512
+
