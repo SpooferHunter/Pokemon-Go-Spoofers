@@ -3,6 +3,8 @@
 * d1e9d9a1
 * potatokaibuzz
 * Kaopipi6688
+* opoher
+* Aushung
 
 # Team Valor
 
